@@ -19,8 +19,8 @@
 - Javascript
 
   - ReactJS
-
-    - React-Router-DOM
+    - [Zustand State-Manager](https://zustand-demo.pmnd.rs/)
+    - [React-Router-DOM](https://reactrouter.com/en/main)
 
 ## **Walkthrough the challenge**
 
